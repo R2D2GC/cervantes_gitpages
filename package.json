@@ -11,7 +11,7 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage":"http://R2D2GC.github.io/cervantes_gitpages/build"
+    "homepage":"https://r2d2gc.github.io/cervantes_gitpages/"
   },
   "scripts": {
     "predeploy":"npm run build",
